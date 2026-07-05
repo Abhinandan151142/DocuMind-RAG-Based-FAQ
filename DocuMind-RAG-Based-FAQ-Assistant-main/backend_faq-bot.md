@@ -32,7 +32,7 @@ curl -X 'GET' \
 
 ```json
 {
-  "message": "Welcome to the LLM FAQ Bot API. Visit /docs to test it."
+  "message":  "Welcome to the LLM FAQ Bot API. Visit /docs to test it."
 }
 ```
 
