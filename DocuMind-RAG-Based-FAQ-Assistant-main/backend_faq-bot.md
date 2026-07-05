@@ -134,6 +134,7 @@ curl -X 'POST' \
 }'
 ```
 
+
 #### Response
 
 **Status Code**: `200 OK`
