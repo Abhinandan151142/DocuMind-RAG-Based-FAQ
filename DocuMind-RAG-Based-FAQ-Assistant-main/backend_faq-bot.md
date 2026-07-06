@@ -11,7 +11,6 @@
 ---
 
 ## Endpoints
-
 ---
 
 ### `GET /` - Root
