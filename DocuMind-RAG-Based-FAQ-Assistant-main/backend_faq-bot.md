@@ -82,7 +82,6 @@ curl -X 'GET' \
   'https://llm-faq-bot.onrender.com/conversations' \
   -H 'accept: application/json'
 ```
-
 #### Response
 
 **Status Code**: `200 OK`
