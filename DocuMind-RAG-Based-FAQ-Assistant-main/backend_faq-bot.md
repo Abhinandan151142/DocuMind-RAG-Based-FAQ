@@ -9,7 +9,6 @@
 **OpenAPI JSON**: `/openapi.json`  
 
 ---
-
 ## Endpoints
 ---
 
