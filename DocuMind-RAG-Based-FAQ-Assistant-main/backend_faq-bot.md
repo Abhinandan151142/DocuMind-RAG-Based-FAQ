@@ -18,6 +18,7 @@
 
 #### Curl
 ```bash
+
 curl -X 'GET' \
   'https://llm-faq-bot.onrender.com/' \
   -H 'accept: application/json'
