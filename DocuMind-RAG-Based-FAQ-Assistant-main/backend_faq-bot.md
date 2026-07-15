@@ -62,13 +62,11 @@ curl -X 'GET' \
 
 **Status Code**: `200 OK`
 **Body**:
-
 ```json
 [
   "conversations"
 ]
 ```
-
 ---
 
 ### `GET /conversations` - List Conversations
