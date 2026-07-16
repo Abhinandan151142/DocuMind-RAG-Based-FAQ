@@ -4,6 +4,7 @@
 //   return <Component {...pageProps} />;
 // }
 
+
 import { useEffect } from 'react'
 import '../styles/globals.css'
 
