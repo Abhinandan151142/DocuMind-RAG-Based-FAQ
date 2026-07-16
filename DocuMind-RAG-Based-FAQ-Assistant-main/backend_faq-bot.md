@@ -15,7 +15,6 @@
 ### `GET /` - Root
 
 **Description**: Returns a welcome message.
-
 #### Curl
 ```bash
 
