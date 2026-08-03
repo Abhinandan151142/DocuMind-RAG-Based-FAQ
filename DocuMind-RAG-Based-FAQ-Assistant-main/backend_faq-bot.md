@@ -1,7 +1,7 @@
 ````markdown
 # DocuMind API Documentation
 
-**Created by**: Aman Singh Chauhan
+**Created by**: Abhinandan Gupta
 
 **Version**: 0.1.0  
 **OpenAPI Spec**: 3.1  
@@ -137,7 +137,7 @@ curl -X 'POST' \
 
 ```json
 {
-  "answer": "Hello! I'm DocuMind, created by Aman Singh Chauhan to assist with questions and provide helpful information. How can I help you today?"
+  "answer": "Hello! I'm DocuMind, created by Abhinandan Gupta to assist with questions and provide helpful information. How can I help you today?"
 }
 ```
 
@@ -187,7 +187,7 @@ curl -X 'POST' \
 
 ## Notes
 
-* Created by **Aman Singh Chauhan**
+* Created by **Abhinandan Gupta**
 * Frontend: Next.js (port 3000)
 * Backend: FastAPI (port 8888)
 * Every interaction is logged in a PostgreSQL database
