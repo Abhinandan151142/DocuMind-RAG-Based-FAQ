@@ -9,20 +9,6 @@ It loads the latest uploaded `.txt` file, chunks the text, embeds chunks with `s
 Create `faq-bot/.env`:
 
 ```env
-DATABASE_URL=your_supabase_postgres_connection_string
-GROQ_API_KEY=your_groq_api_key
-```
-
-## Run
-
-```bash
-cd faq-bot
-pip install -r requirements.txt
-python -m uvicorn main:app --host 0.0.0.0 --port 8888
-```
-
-## Endpoints
-
 - `GET /` - API welcome message.
 - `GET /health/db` - lists public database tables.
 - `GET /conversations` - returns chat history.
